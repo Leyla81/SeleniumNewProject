@@ -71,6 +71,7 @@ Sayfanin sizin istediginiz konum ve boyuta geldigini test edin
 
 
 
+fddxfgfgfhgfhg
 
 
 
