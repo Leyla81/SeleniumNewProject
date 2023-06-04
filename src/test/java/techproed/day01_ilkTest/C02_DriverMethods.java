@@ -26,7 +26,7 @@ public class C02_DriverMethods {
         System.out.println("Techproed Window Handle Değeri : "+driver.getWindowHandle());
 
 
-
+driver.close();
 
 
 
