@@ -1,4 +1,4 @@
-package techproed.day_cssSelector;
+package techproed.day5_cssSelector;
 
 public class C04_odevPractice {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package techproed.day_cssSelector;
+package techproed.day5_cssSelector;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
